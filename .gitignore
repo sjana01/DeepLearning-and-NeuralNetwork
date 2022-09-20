@@ -7,6 +7,14 @@
 # ignore ALL .csv files
 *.csv
 
+*.index
+
+*.data-00000-of-00001
+
+ipynb_checkpoints
+my_checkpoints.index
+my_checkpoints.data-00000-of-00001
+
 # ignore ALL files in ANY directory named temp
 temp/
 keras_model_7/
