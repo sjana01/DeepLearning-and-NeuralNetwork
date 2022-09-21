@@ -20,3 +20,11 @@ temp/
 keras_model_7/
 my_fashion_mnist/
 .ipynb_checkpoints/
+
+# ignore all image files
+*.png
+*.jpg
+*.jpeg
+
+#ignore all the keras model (*.h5) files
+*.h5
